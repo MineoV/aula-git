@@ -16,3 +16,12 @@ git init
 
 -- Ver status da pasta/repositório
 git status
+
+-- Adiciona os arquivos para serem versionados
+git add .
+
+-- Troca o branch de Master par Main
+git branch -m master main
+
+-- Envia as atualizações para o Github
+git push
